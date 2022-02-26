@@ -1,6 +1,7 @@
 title: Guanlin Li
-logo: 
-description: 
-show_downloads: true
+logo: y
+description: x
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+# https://github.com/pages-themes/minimal <- this is the source code that build the web
