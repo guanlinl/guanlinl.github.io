@@ -3,6 +3,6 @@ logo: /figures/head_professional.JPG
 description: ASU Spring 2016 Commencement
 show_downloads: false
 google_analytics:
-github.is_user_page: false # https://github.com/pages-themes/minimal/blob/c827e10a73ef8c75e99b34923c38cc1273d40713/_layouts/default.html
+is_user_page: false # https://github.com/pages-themes/minimal/blob/c827e10a73ef8c75e99b34923c38cc1273d40713/_layouts/default.html
 theme: jekyll-theme-minimal
 # https://github.com/pages-themes/minimal <- this is the source code that build the web
