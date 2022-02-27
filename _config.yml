@@ -4,4 +4,7 @@ description: School of Mathematical and Statistical Sciences, Arizona State Univ
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+github:
+  is_project_page: false
+  is_user_page: false
 # https://github.com/pages-themes/minimal <- this is the source code that build the web
