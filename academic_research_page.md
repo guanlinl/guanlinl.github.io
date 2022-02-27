@@ -12,6 +12,12 @@ layout: default
 ![Octocat](./figures/research/sim_game.png)
 
 
+### Two-species competition model with _mutually repulsive_ chemotaxis effects
+
+> XXX
+![Octocat](./figures/research/ks_2d_sim.png)
+
+
 _yay_
 
 [back](./)
