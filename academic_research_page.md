@@ -34,13 +34,24 @@ known or estimated from data. We combine dynamical models of virus-host systems 
 * **Li, G.**, Shivam, S., Hochberg, M. E., Wardi, Y., & Weitz, J. S. (2021). Disease-dependent interaction policies to support health and economic outcomes during the COVID-19 epidemic. _iScience_, p.102710. [[PDF]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8189742/)
 * Weitz, J. S., Beckett, S. J., Coenen, A. R., Demory, D., Dominguez-Mirazo, M., Dushoff, J., Leung, C.Y., **Li, G.**, Magalie, A., Park. S. W., Rodriguez-Gonzalez, R., Shivam, S., & Zhao, C. Y. (2020). Modeling shield immunity to reduce COVID-19 epidemic spread. _Nature Medicine_, 1-6. [[PDF]](https://www.nature.com/articles/s41591-020-0895-3)
 
-![Branching](./figures/research/shielding.png)
+![Octocat](./figures/research/shielding.png)
 
 ### Phage therapy for control of bacterial infections
 * **Li, G.**, Leung, C. Y., Wardi, Y., Debarbieux, L., & Weitz, J. S. (2020). Optimizing the timing and composition of therapeutic phage cocktails: a control-theoretic approach. _Bulletin of Mathematical Biology_, 82(6), 1-29. [[PDF]](https://link.springer.com/article/10.1007/s11538-020-00751-w)
 
-![Branching](./figures/research/therapy.png)
+![Octocat](./figures/research/therapy.png)
 
-_yay_ h
+
+## Evolutionary Dynamics and Adaptive Systems
+The prevailing paradigm in ecological studies of viruses and their microbial hosts is that the reproductive success of viruses depends on the proliferation of the _predator_, that is, the virus particle. Yet, viruses are obligate intracellular parasites, and the virus genome—the actual unit of selection—can persist and proliferate from one cell generation to the next without lysis or the production of new virus particles. Here, we propose a theoretical framework to quantify the invasion fitness of viruses using an epidemiological cell-centric metric that focuses on the proliferation of viral genomes inside cells instead of virus particles outside cells.
+
+Phage can infect and lyse their bacterial hosts, releasing new viral progeny. In addition to the lytic pathway, certain bacteriophage (i.e. 'temperate' bacteriophage) can also initiate lysogeny, a latent mode of infection in which the viral genome is integrated into and replicated with the bacterial chromosome. Subsequently, the integrated viral genome, that is the 'prophage', can induce and restart the lytic pathway. Here, we explore the relationship among infection mode, ecological context, and viral fitness, in essence asking: _when should viruses be temperate ?_
+
+* **Li, G.**, Cortez, M. H., Dushoff, J., & Weitz, J. S. (2020). When to be temperate: on the fitness benefits of lysis vs. lysogeny. _Virus Evolution_, 6(2), veaa042.
+* Weitz, J. S., **Li, G.**, Gulbudak, H., Cortez, M. H., Whitaker, R. J. (2019). Viral invasion fitness across a continuum from lysis to latency. _Virus Evolution_, 5(1), vez006.
+
+![Octocat](./figures/research/fitness.png)
+
+
 
 [back](./)
