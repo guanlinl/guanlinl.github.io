@@ -34,12 +34,12 @@ known or estimated from data. We combine dynamical models of virus-host systems 
 * **Li, G.**, Shivam, S., Hochberg, M. E., Wardi, Y., & Weitz, J. S. (2021). Disease-dependent interaction policies to support health and economic outcomes during the COVID-19 epidemic. _iScience_, p.102710. [[PDF]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8189742/)
 * Weitz, J. S., Beckett, S. J., Coenen, A. R., Demory, D., Dominguez-Mirazo, M., Dushoff, J., Leung, C.Y., **Li, G.**, Magalie, A., Park. S. W., Rodriguez-Gonzalez, R., Shivam, S., & Zhao, C. Y. (2020). Modeling shield immunity to reduce COVID-19 epidemic spread. _Nature Medicine_, 1-6. [[PDF]](https://www.nature.com/articles/s41591-020-0895-3)
 
-![Octocat](./figures/research/shielding.png)
+![Branching](./figures/research/shielding.png)
 
 ### Phage therapy for control of bacterial infections
 * **Li, G.**, Leung, C. Y., Wardi, Y., Debarbieux, L., & Weitz, J. S. (2020). Optimizing the timing and composition of therapeutic phage cocktails: a control-theoretic approach. _Bulletin of Mathematical Biology_, 82(6), 1-29. [[PDF]](https://link.springer.com/article/10.1007/s11538-020-00751-w)
 
-![Octocat](./figures/research/therapy.png)
+![Branching](./figures/research/therapy.png)
 
 _yay_
 
