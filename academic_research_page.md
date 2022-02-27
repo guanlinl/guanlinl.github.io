@@ -3,6 +3,7 @@ layout: default
 ---
 
 # Research
+_Focused on understanding the structure and dynamics of complex biological systems utilizing the tools of nonlinear dynamics, stochastic processes, and large-scale data analysis._
 
 ## Spatial Models, Pattern Formation and Nonlinear Dynamics
 
