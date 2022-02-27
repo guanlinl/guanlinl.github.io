@@ -14,7 +14,7 @@ layout: default
 
 ### Two-species competition model with _mutually repulsive_ chemotaxis effects
 
-> XXX
+> [chemotaxis](http://2016.igem.org/Team:Technion_Israel/Chemotaxis)
 ![Octocat](./figures/research/chemorepell.png)
 
 
