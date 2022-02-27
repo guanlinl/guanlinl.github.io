@@ -47,8 +47,8 @@ The prevailing paradigm in ecological studies of viruses and their microbial hos
 
 Phage can infect and lyse their bacterial hosts, releasing new viral progeny. In addition to the lytic pathway, certain bacteriophage (i.e. 'temperate' bacteriophage) can also initiate lysogeny, a latent mode of infection in which the viral genome is integrated into and replicated with the bacterial chromosome. Subsequently, the integrated viral genome, that is the 'prophage', can induce and restart the lytic pathway. Here, we explore the relationship among infection mode, ecological context, and viral fitness, in essence asking: _when should viruses be temperate ?_
 
-* **Li, G.**, Cortez, M. H., Dushoff, J., & Weitz, J. S. (2020). When to be temperate: on the fitness benefits of lysis vs. lysogeny. _Virus Evolution_, 6(2), veaa042.
-* Weitz, J. S., **Li, G.**, Gulbudak, H., Cortez, M. H., Whitaker, R. J. (2019). Viral invasion fitness across a continuum from lysis to latency. _Virus Evolution_, 5(1), vez006.
+* **Li, G.**, Cortez, M. H., Dushoff, J., & Weitz, J. S. (2020). When to be temperate: on the fitness benefits of lysis vs. lysogeny. _Virus Evolution_, 6(2), veaa042.[[PDF]](https://academic.oup.com/ve/article/6/2/veaa042/5842152)
+* Weitz, J. S., **Li, G.**, Gulbudak, H., Cortez, M. H., Whitaker, R. J. (2019). Viral invasion fitness across a continuum from lysis to latency. _Virus Evolution_, 5(1), vez006.[[PDF]](https://academic.oup.com/ve/article/5/1/vez006/5476198)
 
 ![Octocat](./figures/research/fitness.png)
 
