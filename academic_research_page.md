@@ -41,6 +41,6 @@ known or estimated from data. We combine dynamical models of virus-host systems 
 
 ![Branching](./figures/research/therapy.png)
 
-_yay_
+_yay_ h
 
 [back](./)
