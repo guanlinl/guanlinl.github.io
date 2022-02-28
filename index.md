@@ -2,6 +2,8 @@
 
 I have worked at [Chicago Trading Company](https://www.chicagotrading.com) (_a proprietary trading firm_) as a Quantitative Researcher after graduation. My work mainly focused on researching options systematic trading strategies (e.g. _volatility smile_ related signals) and supporting desk traders with analytical tools to  better visualize risk metrics and make trading decisions.
 
+* [Curriculum Vitae](./pdfs/cv/cv_en.pdf) | [中文简历](./pdfs/cv/cv_.pdf)
+
 ### Academic background
 Previously, I graduated with a Bachelor degree (_summa cum laude_) in Mathematics (minor in Physics) from Arizona State University (May 2016), three Master's degrees in Mathematics (May 2017), Electrical & Computer Engineering (May 2020) and Statistics (May 2021), and a [Ph.D. in Quantitative Biosciences (School of Physics) from Georgia Institue of Technology](https://qbios.gatech.edu) (June 2021), supervised by Dr. Joshua S. Weitz and Dr. Yao Yao. My Ph.D. research focused on _understanding and control of complex biological, sociological and physical systems_. Examples of such complex systems are found in microbial ecosystem (e.g. virus-host interactions), public health (e.g. infectious diseases control), public policy (e.g. collective behavior in voting), and in many other systems. Please visit my [research page](./research_page.html) for publications and a more detailed explanation of research themes [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN&user=j7wLuKQAAAAJ).
 
