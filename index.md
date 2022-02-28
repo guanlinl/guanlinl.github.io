@@ -14,11 +14,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 ### Contact
-
-|              |                          | 
-|:-------------|:-------------------------|
-| Email (US)   | guanlinl@asu.edu         | 
-| Email (CN)   | guanlinl131205@163.com   | 
+* Email (US): guanlinl@asu.edu        
+* Email (CN): guanlinl131205@163.com   
 
 
 
