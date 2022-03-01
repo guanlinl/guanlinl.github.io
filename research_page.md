@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Research
-_My Ph.D. study focused on understanding the structure and dynamics of complex biological systems utilizing the tools of nonlinear dynamics, stochastic processes, and large-scale data analysis._
+_My Ph.D. study focused on understanding the structure and dynamics of complex biological systems utilizing the tools of nonlinear dynamics, stochastic processes, and large-scale data analysis._ [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN&user=j7wLuKQAAAAJ)
 
 ## Spatial Models, Pattern Formation and Nonlinear Dynamics
 
