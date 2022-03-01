@@ -19,3 +19,5 @@ My Apartment View (The Imprint Apartments)
 
 My Mug
 ![Octocat](./figures/memo/chi/IMG_4373.jpg)
+
+[back to main page](./)
