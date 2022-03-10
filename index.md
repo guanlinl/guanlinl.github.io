@@ -1,6 +1,6 @@
 # About me
 
-I have worked at [Chicago Trading Company](https://www.chicagotrading.com) (_a proprietary trading firm_) as a Quantitative Researcher after graduation. My work mainly focused on researching options systematic trading strategies (e.g. _volatility smile_ related signals) and supporting desk traders with analytical tools to  better visualize risk metrics and make trading decisions.
+I have worked at [Chicago Trading Company](https://www.chicagotrading.com) (a proprietary trading firm) as a _Quantitative Researcher_ after graduation. My work mainly focused on researching options systematic trading strategies (e.g. _volatility smile_ related signals) and supporting desk traders with analytical tools to  better visualize risk metrics and make trading decisions.
 
 * [Curriculum Vitae](./pdfs/cv/cv_en.pdf) / [中文简历](./pdfs/cv/cv_cn.pdf)
 
