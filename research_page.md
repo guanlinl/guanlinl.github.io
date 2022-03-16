@@ -27,7 +27,7 @@ Mathematical models of [_opinion formation_](https://en.wikipedia.org/wiki/Conse
 ![Octocat](./figures/research/opinion_sim.png)
 
 
-## Optimization and control of complex virus-host systems
+## Optimization and Control of Complex Biological Systems
 Optimization and control are powerful tools to design a system that works as effectively as possible. Mathematical optimization and control methods are widely used in engineering and science. The model-based optimization and control frameworks usually deal with modeling complex systems, and the model components are (partially)
 known or estimated from data. We combine dynamical models of virus-host systems with optimization- and control-theoretic principles to improve two specific decision-making processes: devise and improve the timing and composition of therapeutic phage cocktails in phage therapy; design non-pharmacological interventions to reduce fatalities arising from COVID-19 while also enabling economic engagement.
 
