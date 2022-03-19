@@ -1,6 +1,6 @@
 # About me
 
-I have worked at a proprietary trading firm ([Chicago Trading Company](https://www.chicagotrading.com)) as a _Quantitative Researcher_ after graduation. My work mainly focused on researching options systematic trading strategies and supporting FICC OMM traders with analytical tools to  better visualize risk metrics and make trading decisions.
+I have worked at a proprietary trading firm ([Chicago Trading Company](https://www.chicagotrading.com)) as a _Quantitative Researcher_ after graduation. My work mainly focused on researching options systematic trading strategies and supporting traders with analytical tools to  better visualize risk metrics and make trading decisions.
 
 * [Curriculum Vitae](./pdfs/cv/cv_en.pdf) / [中文简历](./pdfs/cv/cv_cn.pdf)
 
