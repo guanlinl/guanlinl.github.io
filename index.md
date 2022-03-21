@@ -10,6 +10,7 @@ Previously, I graduated with a Bachelor degree (_summa cum laude_) in Mathematic
 ### Footprints / 随笔
 
 #### Photos
+
 | Where                                | When                 |
 |:-------------------------------------|:---------------------|
 | [Chicago IL, 60605](./chi_pics.html) | June 2021 - Mar 2022 |
