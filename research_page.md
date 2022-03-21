@@ -25,7 +25,7 @@ known or estimated from data. We combine dynamical models of virus-host systems 
 ### Phase separation in spatial coordination games
 
 Microbes interact in dense environments. These interactions can span antagonistic to cooperative, and can vary between and across microbial types. Microbes could utilize a proximity-based secretion system to kill individuals of other types without killing microbes of the same type. Such strain-dependent killing led to the emergence of distinct patches which grew in size and structure with spatiotemporal dynamics whose scaling was consistent with [_'Model A' Coarsening_](https://sethna.lassp.cornell.edu/Coarsening/What_Is_Coarsening.html) (see time lapse images below from a simulation, two groups of microbes are labeled in red and blue). We proposed a stochastic spatial game-theoretic framework (focusing our attention on [_coordination games_](https://en.wikipedia.org/wiki/Coordination_game)) to model this microbial system, and study the emergence of _coarsening_ using a mean-field approach, manuscript available upon request.
-* **Li, G.**, Steinbach, G., Yao, Y. & Weitz, J. S. (2021). Phase separation in spatial coordination games. _preprint available_ (please do not distribute). [[PDF]](./pdfs/drafts/spatial_game_theory_PRE_draft_0605.pdf)
+* **Li, G.**, Steinbach, G., Yao, Y. & Weitz, J. S. (2021). Phase separation in spatial coordination games. _preprint available_ (please do not distribute). [[PDF]](./pdfs/drafts/spatial_game_theory_PRE_draft_0603.pdf)
 ![Octocat](./figures/research/sim_game.png)
 
 
