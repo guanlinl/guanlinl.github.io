@@ -1,6 +1,6 @@
 # About me
 
-Currently, I'm employed by China Securities Co.,Ltd, in the options market making (OMM) team. Before that, I have worked at a proprietary trading firm [(Chicago Trading Company)](https://www.chicagotrading.com) doing alpha research on options. My work mainly focused on researching options systematic trading strategies and supporting traders with analytical tools to better visualize risk metrics and make trading decisions.
+Currently, I'm employed by China Securities Co.,Ltd [(中信建投证劵)](https://www.csc108.com/newsiteindex/index.jspx), in the options market making (OMM) team. Before that, I have worked at a proprietary trading firm [(Chicago Trading Company)](https://www.chicagotrading.com) doing alpha research on options. My work mainly focused on researching options systematic trading strategies and supporting traders with analytical tools to better visualize risk metrics and make trading decisions.
 
 * [Curriculum Vitae](./pdfs/cv/cv_en.pdf) / [中文简历](./pdfs/cv/cv_cn.pdf)
 
