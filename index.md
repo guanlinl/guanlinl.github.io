@@ -11,7 +11,7 @@ Previously, I graduated with a Bachelor degree (_summa cum laude_) in Mathematic
 
 | Where                                | When                 |
 |:-------------------------------------|:---------------------|
-| [Bejing CN, 100XX]                   | Apri 2022 - Present  |
+| [Bejing CN, 1XXXX]                   | Apri 2022 - Present  |
 | [Chicago IL, 60605](./chi_pics.html) | June 2021 - Mar 2022 |
 | [Atlanta GA, 30308](./atl_pics.html) | Aug 2016 - June 2021 | 
 | [Tempe AZ, 85281](./az_pics.html)    | Aug 2013 - May 2016  | 
