@@ -7,7 +7,7 @@ Currently, I'm employed by China Securities Co.,Ltd [(中信建投证劵)](https
 ### Academic background
 Previously, I graduated with a Bachelor degree in Mathematics with a minor in Physics from Arizona State University (_summa cum laude_, May 2016), three Master's degrees in Mathematics (May 2017), Electrical & Computer Engineering (May 2020) and Statistics (May 2021), and a [Ph.D. in Quantitative Biosciences at School of Physics from Georgia Institue of Technology](https://qbios.gatech.edu) (June 2021), supervised by Dr. Joshua S. Weitz and Dr. Yao Yao. My Ph.D. research focused on understanding and control of complex biological, sociological and physical systems. Examples of such complex systems are found in microbial ecosystem (e.g. virus-host interactions), public health (e.g. infectious diseases control), public policy (e.g. collective behavior in voting), and in many other systems. Please visit [research section](./research_page.html) for publications and a more detailed explanation of research themes.
 
-#### Photos
+### Photos
 
 | Where                                | When                 |
 |:-------------------------------------|:---------------------|
