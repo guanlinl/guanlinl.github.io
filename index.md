@@ -1,6 +1,6 @@
 # About me
 
-Currently, I'm employed by [China Securities Co.,Ltd](https://www.csc108.com/newsiteindex/index.jspx) options market making (OMM) team. Before that, I have worked at [CTC Trading Group, LLC](https://www.chicagotrading.com) doing alpha research on options. My work mainly focused on researching options systematic trading strategies and supporting traders with analytical tools to better visualize risk metrics and make trading decisions.
+Currently, I'm employed by [China Securities Co.,Ltd](https://www.csc108.com/newsiteindex/index.jspx) options market making (OMM) team. Before that, I have worked at [CTC Trading Group, LLC](https://www.chicagotrading.com). My work mainly focused on researching options systematic trading strategies and supporting traders with analytical tools to better visualize risk metrics and make trading decisions.
 
 * [Curriculum Vitae](./pdfs/cv/cv_en.pdf) / [中文简历](./pdfs/cv/cv_cn.pdf)
 
@@ -11,7 +11,7 @@ Previously, I graduated with a Bachelor degree in Mathematics with a minor in Ph
 
 | Where                                | When                 |
 |:-------------------------------------|:---------------------|
-| [Bejing CN, 100039]                  | Apri 2022 - Present  |
+|  Bejing CN, 100039                   | Apri 2022 - Present  |
 | [Chicago IL, 60605](./chi_pics.html) | June 2021 - Mar 2022 |
 | [Atlanta GA, 30308](./atl_pics.html) | Aug 2016 - June 2021 | 
 | [Tempe AZ, 85281](./az_pics.html)    | Aug 2013 - May 2016  | 
