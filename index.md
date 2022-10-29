@@ -17,5 +17,5 @@ Previously, I graduated with a Bachelor degree in Mathematics with a minor in Ph
 | [Tempe AZ, 85281](./az_pics.html)    | Aug 2013 - May 2016  | 
 
 ### Contact
-* Email (US): guanlinl@asu.edu        
 * Email (CN): guanlinl131205@163.com   
+* Email (US): guanlinl@asu.edu        
