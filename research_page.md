@@ -4,7 +4,6 @@ layout: default
 
 # Research
 _My Ph.D. study ([dissertation](https://smartech.gatech.edu/handle/1853/67110)) focused on understanding the structure and dynamics of complex biological systems utilizing the tools of nonlinear dynamics, stochastic processes, and large-scale data analysis._ 
-
 [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=j7wLuKQAAAAJ)
 
 ## Optimization and Control of Complex Biological Systems
