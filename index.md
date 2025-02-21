@@ -1,6 +1,6 @@
 # About me
 
-Currently, I'm employed by [China Securities Co.,Ltd](https://www.csc108.com/newsiteindex/index.jspx) options and futures market making (OMM) team. Before that, I have worked at [CTC Trading Group, LLC](https://www.chicagotrading.com), a proprietary trading firm. My work mainly focus on researching options systematic trading strategies and supporting traders with analytical tools. Please visit [technical notes](./technical_notes.html) for some cool stuffs.
+I am currently employed with the Options and Futures Market Making (OMM) team at [China Securities Co., Ltd](https://www.csc108.com/newsiteindex/index.jspx). Prior to this, I worked at [CTC Trading Group, LLC](https://www.chicagotrading.com), a proprietary trading firm. My primary focus has been researching systematic options trading strategies and high-frequency market-making algorithms. Feel free to explore some of my [remarks](./technical_notes.html) for some interesting insights.
 
 * [Curriculum Vitae](./pdfs/cv/cv_en.pdf) / [中文简历](./pdfs/cv/cv_cn.pdf)
 
