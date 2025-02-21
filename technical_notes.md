@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# Quantitative Research
+
 * Delta risk hedge process [[PDF]](./pdfs/drafts/hedge.pdf)
 * Systematic volatility skew trading [[PDF]](./pdfs/drafts/skew.pdf)
 * Market making on multivariate risk factors, e.g., options market making (OMM) [[PDF]](./pdfs/drafts/utilityOMM.pdf)
