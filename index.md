@@ -1,5 +1,5 @@
 # About me
-I’m currently Head of Quantitative Research for Automated Market Making at SDIC Group Securities Investment. Previously, I was on the equity derivatives and options market making team at [China Securities Co., Ltd](https://www.csc108.com/newsiteindex/index.jspx). Before that, I worked at [CTC Trading Group, LLC](https://www.chicagotrading.com), a proprietary trading firm in Chicago. My focus has been on researching systematic options trading strategies and high-frequency market-making algorithms. Feel free to check out my [Quantitative Research Notes](./technical_notes.html) for some interesting insights.
+I’m currently Head of Quantitative Research for Automated Market Making at [SDIC Group](https://www.sdic.com.cn/en/) Securities Investment. Previously, I was on the equity derivatives and options market making team at [China Securities Co., Ltd](https://www.csc108.com/newsiteindex/index.jspx). Before that, I worked at [CTC Trading Group](https://www.chicagotrading.com), a proprietary trading firm in Chicago. My focus has been on researching systematic options trading strategies and high-frequency market-making algorithms. Feel free to check out my [Quantitative Research Notes](./technical_notes.html) for some interesting insights.
 
 * [Curriculum Vitae](./pdfs/cv/cv_en.pdf) / [中文简历](./pdfs/cv/cv_cn.pdf)
 
