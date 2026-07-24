@@ -6,7 +6,7 @@ layout: default
 
 ### Market Microstructure 
 * Lead-lag dynamics in Chinese stock index futures market [[arXiv]](https://arxiv.org/pdf/2501.03171)
-* Negative Correlation in MicroPrice Differences [[pdf]](./pdfs/cv/neg_corr_middiff.pdf)
+* Negative correlation in microprice differences [[pdf]](./pdfs/cv/neg_corr_middiff.pdf)
 
 ### Volatility Trading
 * Systematic skew trading [[pdf]](./pdfs/cv/skew_trading.pdf)
